@@ -10,11 +10,12 @@ Obsah, logika, pravidla, informační hodnota...
 
 Nápady:
 aplikace pro nákupní seznam
-- ikonky pro běžné jídlo
-- grafika pro papírky
+- ikonky pro kategorie jídla
 - lednice,kam členové rodiny mohou připínat věci které potřebují -> řadí se do seznamů podle kategorií (potraviny drogérie, stavebniny, kvetinářství)
-- jednotlivé seznamy se pak přiřadí k lidem, kteří zrovna půjdou na nákup
-- do aplikace budou uživatelé vkládat jednotlivé produkty, pokud bude potřeba na seznam přidat něco co ještě nikdy přidáno nebylo, uživatel bude moci vložit název a popis produktu + ikonku z galerie + kategorie (potraviny drogérie, stavebniny, kvetinářství)
+- seznamy si pak jednotliví lidé mohou přidat do oblíbených a vzít si je na nákup
+- do aplikace budou uživatelé vkládat jednotlivé produkty, pokud bude potřeba na seznam přidat něco co ještě nikdy přidáno nebylo, uživatel bude moci vložit název a popis produktu 
    -> rodina pak bude mít na výběr produkty, které pravidelně nakupují
-- aplikace bude doporučovat nejbližší obchody podle kategorií (potraviny drogérie, stavebniny, kvetinářství) + mapa s adresami obchodů
+- (aplikace bude doporučovat nejbližší obchody podle kategorií (potraviny drogérie, stavebniny, kvetinářství) + mapa s adresami obchodů)
+
+  
 https://www.figma.com/file/tjWIvFYXmySyuIooD0Xv2Y/Untitled?type=design&node-id=0%3A1&mode=design&t=w9bETZ5pcuBw2wPW-1
