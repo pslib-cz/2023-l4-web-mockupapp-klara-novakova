@@ -17,3 +17,4 @@ aplikace pro nákupní seznam
 - do aplikace budou uživatelé vkládat jednotlivé produkty, pokud bude potřeba na seznam přidat něco co ještě nikdy přidáno nebylo, uživatel bude moci vložit název a popis produktu + ikonku z galerie + kategorie (potraviny drogérie, stavebniny, kvetinářství)
    -> rodina pak bude mít na výběr produkty, které pravidelně nakupují
 - aplikace bude doporučovat nejbližší obchody podle kategorií (potraviny drogérie, stavebniny, kvetinářství) + mapa s adresami obchodů
+https://www.figma.com/file/tjWIvFYXmySyuIooD0Xv2Y/Untitled?type=design&node-id=0%3A1&mode=design&t=w9bETZ5pcuBw2wPW-1
