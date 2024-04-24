@@ -50,4 +50,12 @@ Na mobilu by homepage mohla vypadat takto:<br>
 Takhle vypadá rozbalené hamburger menu:<br>
 ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Android%20Small%20-%203.jpg)<br>
  ## Katalog potravin
+ ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%202.jpg)
+ Po najetí myší na potravinu se ukáže poznámka.<br>
+ ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2020.jpg)
+ Katalog se dá filtrovat podle kategorií.<br>
+Po kliknutí na jednotlivé produkty se ukáže toto: <br>
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2013.jpg)
+## Oblíbené
+## Přidat produkt
 https://www.figma.com/file/tjWIvFYXmySyuIooD0Xv2Y/Untitled?type=design&node-id=0%3A1&mode=design&t=w9bETZ5pcuBw2wPW-1
