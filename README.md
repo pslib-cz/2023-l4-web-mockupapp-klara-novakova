@@ -1,6 +1,7 @@
 # Aplikace na seznamy
 ## Úvod
-Vytvořila jsem návrh aplikace pro shromáždění a vytváření nákupních seznamů. Dávalo by smysl, že by byla navrhnutá pro mobil, ale začala jsem desktop návrhem a nestíhám to dodělat, takže je návrh designu hlavně pro desktop. Do aplikace se vkládají produkty, které se pak dají shromažďovat do seznamů. Seznamy se dají uložit do oblíbených, nebo sdílet. 
+Vytvořila jsem návrh aplikace pro shromáždění a vytváření nákupních seznamů. Dávalo by smysl, že by byla navrhnutá pro mobil, ale začala jsem desktop návrhem a nestíhám to dodělat, takže je návrh designu hlavně pro desktop. Do aplikace se vkládají produkty, které se pak dají shromažďovat do seznamů. Seznamy se dají uložit do oblíbených, nebo sdílet. <br>
+Grafika se dá vyexportovat z figma souboru.
 ### Barevná paleta
 ```
 :root {
@@ -50,4 +51,22 @@ Na mobilu by homepage mohla vypadat takto:<br>
 Takhle vypadá rozbalené hamburger menu:<br>
 ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Android%20Small%20-%203.jpg)<br>
  ## Katalog potravin
+ ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%202.jpg)
+ Po najetí myší na potravinu se ukáže poznámka.<br>
+ ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2020.jpg)
+ Katalog se dá filtrovat podle kategorií.<br>
+Po kliknutí na jednotlivé produkty se ukáže toto: <br>
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2013.jpg)
+## Oblíbené
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2012.jpg)
+Po kliknutí na oblíbené:<br>
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2014.jpg)
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%2015.jpg)
+## Přidat produkt
+Při přidávání produktu se nejdříve prokliká kategoriemi a pak zadají informace do okna.<br>
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%201.jpg)
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%208.jpg)
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-klara-novakova/blob/main/uk%C3%A1zkov%C3%A9%20obr%C3%A1zky/Desktop%20-%209.jpg)
+
+Odkaz na Figmu:
 https://www.figma.com/file/tjWIvFYXmySyuIooD0Xv2Y/Untitled?type=design&node-id=0%3A1&mode=design&t=w9bETZ5pcuBw2wPW-1
